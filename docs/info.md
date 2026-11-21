@@ -13,9 +13,7 @@ Explain how your project works
 
 ## How to test
 BCD a 7 Seg
-
 Explain how to use your project
 
 ## External hardware
-
 BCD 7 seg
